@@ -5,4 +5,13 @@ I have been all over the place as a developer this year and I'm more blessed tha
 This is a nice check in and a point to get back to my daily routine and consistent practice.
 I have a new environment for Mac development and a new computer coming soon to setup for Windows on the 31st.
 ONE DAY I will have a Linux machine to call my own but for now I will be working on both of these environments.
-The auto complete is really throwing me off I need to turn that off. I believe I 
+The auto complete is really throwing me off I need to turn that off. 
+Turned off. Now I can think and type in peace.
+'''
+
+'''
+I'm writing another comment and committing to confirm that my git identity is setup correctly to c
+ontribute to my account's daily streak before I get back to practicing.
+'''
+
+
